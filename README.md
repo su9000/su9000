@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm **Susana Pedrosa**
+# Hi there 👋 , I'm **Susana Pedrosa**
 
 ## Currently working on
 - Galaxy formation and evolution across cosmic time  
